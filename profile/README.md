@@ -7,8 +7,9 @@ We are Vyopmend a small team.
 
 ---
 
-## 🧑‍🏫 Templates
-Soon
+| 🧑‍🏫 Templates  |
+|     :----:    |
+| Soon          |
 
 ---
 
