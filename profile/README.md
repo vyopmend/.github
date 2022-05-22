@@ -14,4 +14,4 @@ We are Vyopmend a small team.
 ---
 
 ## 🌺 Valery-Chan
-Sorry, but we are not done yet.
+Sorry, this project is not ready yet!
