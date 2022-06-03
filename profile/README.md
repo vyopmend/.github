@@ -5,7 +5,7 @@
 
 <p><b>We are Vyopmend a small team of developers from Germany. We specialize in developing projects around Discord, such as Discord Bots.<br>We are not affiliated with Discord, nor do we belong to Discord.</b></p><br>
 
-- 🎯 **We're currently focusing on:** [Valery](#-⃤-valery-chan), Taji.
+- 🎯 **We're currently focusing on:** [Valery](#-⃤-valery-chan), Ozuma.
 - 💬 **Ask us about anything:** [Here](https://discord.gg/XjTgpFWgjS).
 - 📫 **Want to stay up to date:** Follow us on Social Media or join our [Discord](https://discord.gg/XjTgpFWgjS).
 
